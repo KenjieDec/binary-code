@@ -1,0 +1,22 @@
+{
+  "name": "binary-code",
+  "version": "1.0.0",
+  "description": "Convert Text to binary code or Convert binary code to Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjieDec/binary-code.git"
+  },
+  "keywords": [
+    "binary"
+  ],
+  "author": "Poor_RBs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjieDec/binary-code/issues"
+  },
+  "homepage": "https://github.com/KenjieDec/binary-code#readme"
+}
