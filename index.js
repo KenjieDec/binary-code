@@ -115,7 +115,7 @@ const bin = (text) => {
 
   const string = (text) => {
 
-    let s = yes.split(" ").join("")
+    let s = text.split(" ").join("")
     let Binar = s.match(/.{1,8}/g).join(' ')
     let newBinar = Binar.split(" ")
     var binc = [];

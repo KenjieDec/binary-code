@@ -1,6 +1,6 @@
 {
   "name": "binary-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Text to binary code or Convert binary code to Text",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "binary"
   ],
   "author": "Poor_RBs",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KenjieDec/binary-code/issues"
   },
