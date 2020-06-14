@@ -1,2 +1,5 @@
 1.0.0
 binary-code
+
+1.0.1
+Nothing changed, just making information
