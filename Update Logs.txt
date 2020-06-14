@@ -2,4 +2,7 @@
 binary-code
 
 1.0.1
-Nothing changed, just making information
+-
+
+1.0.2
+Updating Update Logs.txt and index.js Info ( Not necessary )
