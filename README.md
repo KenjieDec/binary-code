@@ -1,10 +1,9 @@
-# RE-TIMES
-Use re-times to turn number into time in **String** or **Milliseconds**
+# binaryc-code 
+Convert Text to binary code or Convert binary code to Text
 
 ## Function
-* Turn second to Milliseconds
-* Turn Time ( Number in Second ) to Text Up to 
-* Turn specified time to Milliseconds ( Up to Aeons )
+* Convert text to binary code
+* Convert binary code to text
 
 ## Example:
 ```js
