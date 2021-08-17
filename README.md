@@ -1,4 +1,4 @@
-# binaryc-code 
+# binary-code 
 Convert Text to binary code or Convert binary code to Text
 
 ## Function
